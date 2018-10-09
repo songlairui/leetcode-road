@@ -1,3 +1,3 @@
-const main = require('./1')
+const main = require('./2')
 
-console.warn(main('aaababa'))
+console.warn(main('aaaa'))
